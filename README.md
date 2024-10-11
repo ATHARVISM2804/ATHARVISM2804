@@ -63,13 +63,7 @@ A web-based to-do list application developed using Django. Users can add, edit, 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AtharvGolait)
 [![Personal Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atharvism2804.github.io/website/)
 
-<!-- ## 📄 Recent Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Exploring Robotics with ROS](https://ashishnith.github.io/MyWebsite/blog.html)
-- [AI in Everyday Life](https://ashishnith.github.io/MyWebsite/blog.html)
-<!-- BLOG-POST-LIST:END -->
- -->
 
 ## 💡 Fun Fact
 
@@ -78,4 +72,4 @@ I enjoy exploring emerging technologies, and in my free time, I love diving into
 
 ---
 
-⭐️ From [AshishNith](https://github.com/AshishNith)
+⭐️ From [ATHARVISM2804](https://github.com/AshishNith)
