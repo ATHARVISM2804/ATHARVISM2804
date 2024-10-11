@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Stats
 
-![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshishNith&show_icons=true&theme=radical)
+![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ATHARVISM2804UPA&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARVISM2804&layout=compact&theme=radical)
 
 <!-- ## 📘 Featured Projects
