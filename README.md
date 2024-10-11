@@ -1,41 +1,81 @@
-<h1 align="center">Hi 👋, I'm Atharv Golait</h1>
-<h3 align="center">A passionate AIML devloper from imdia</h3>
+# 👋 Hello, I'm Atharv Golait!
 
-<img align="right" alt="coding" width=400 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+![Profile Views](https://komarev.com/ghpvc/?username=ATHARVISM2804&color=blueviolet&style=flat-square)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvism2804&label=Profile%20views&color=0e75b6&style=flat" alt="atharvism2804" /> </p>
+<table>
+  <tr>
+    <td>
+      <p>I'm a web developer with a strong interest in Python, Machine Learning, and OpenCV. I'm passionate about creating web applications while expanding my skills in these emerging technologies.</p>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="GIF" style="width: 400px;"/>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on **instagram spam detection**
+## 🌱 About Me
 
-- 🌱 I’m currently learning **opencv and AIML**
+- 🎓 Currently learning Python, OpenCV, Machine Learning, and web development.
+- 💼 Open to collaborating on web development projects, freelance opportunities, and exciting ML/AI projects.
+- 📫 Reach me via email at [atharv.golait@gmail.com](mailto:atharv.golait@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/atharv-golait-9048772ab/).
 
-- 👯 I’m looking to collaborate on **line following bot using aurdiuno**
 
-- 🤝 I’m looking for help with **object detection using opencv python**
+## 🔧 Technologies & Tools
 
-- 💬 Ask me about **AIML**
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 📫 How to reach me **atharv.golait@gmail.cm**
+### Frameworks & Libraries
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AtwtEv5bxT0agnxW6KfgwpmZ1eJB?e=8byuK0](https://1drv.ms/b/s!AtwtEv5bxT0agnxW6KfgwpmZ1eJB?e=8byuK0)
+<!-- Add more frameworks and libraries as needed -->
 
-- ⚡ Fun fact **I do calisthenics with weights**
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<!-- Add more tools as needed -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/atharvgolait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharvgolait" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atharv golait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharv golait" height="30" width="40" /></a>
-<a href="https://kaggle.com/atharvgolait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="atharvgolait" height="30" width="40" /></a>
-<a href="https://fb.com/atharv golait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atharv golait" height="30" width="40" /></a>
-<a href="https://instagram.com/_atharv.vv_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_atharv.vv_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/atharvism2804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharvism2804" height="30" width="40" /></a>
-</p>
+## 📊 GitHub Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshishNith&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARVISM2804&layout=compact&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvism2804&show_icons=true&locale=en&layout=compact" alt="atharvism2804" /></p>
+<!-- ## 📘 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvism2804&show_icons=true&locale=en" alt="atharvism2804" /></p>
+### [Robotics Society Website](https://github.com/AshishNith/RoboticsSocietyWebsite)
+Developed the official website for my college's robotics society using Flask and HTML/CSS. The site includes a blog, project showcase, and member portal.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvism2804&" alt="atharvism2804" /></p>
+### [Task Manager App](https://github.com/AshishNith/TaskManager)
+A Python-based task management app with a GUI. Features include task categorization, deadline setting, and progress tracking.
+
+### [Joystick Controlled Robot in ROS2](https://github.com/AshishNith/JoystickRobot)
+Designed a robot in ROS2 that can be controlled using a joystick module. Simulated in Gazebo for testing.
+
+### [To-Do App with Django](https://github.com/AshishNith/ToDoAppDjango)
+A web-based to-do list application developed using Django. Users can add, edit, and delete tasks with a clean and responsive UI. -->
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-golait-9048772ab/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AtharvGolait)
+[![Personal Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atharvism2804.github.io/website/)
+
+<!-- ## 📄 Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Exploring Robotics with ROS](https://ashishnith.github.io/MyWebsite/blog.html)
+- [AI in Everyday Life](https://ashishnith.github.io/MyWebsite/blog.html)
+<!-- BLOG-POST-LIST:END -->
+ -->
+
+## 💡 Fun Fact
+
+I enjoy exploring emerging technologies, and in my free time, I love diving into coding challenges and building quirky mini-projects to sharpen my skills!
+
+
+---
+
+⭐️ From [AshishNith](https://github.com/AshishNith)
