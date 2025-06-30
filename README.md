@@ -1,94 +1,75 @@
-<h1 align="center">👋 Hello, I'm Atharv Golait</h1>
-<h3 align="center">Web Developer | AI & Automation Enthusiast | Building the Future, One Line at a Time</h3>
+# 👋 Hello, I'm Atharv Golait!
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ATHARVISM2804&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=ATHARVISM2804&color=blueviolet&style=flat-square)
 
-<p align="center">
-  <a href="https://atharvism2804.github.io/website"><img src="https://img.shields.io/badge/🌐%20Portfolio-atharvism2804.github.io-121212?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:atharv.golait@gmail.com"><img src="https://img.shields.io/badge/✉️%20Email-atharv.golait@gmail.com-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/atharv-golait-9048772ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/AtharvGolait"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <p>I'm a web developer with a strong interest in Python, Machine Learning, and OpenCV. I'm passionate about creating web applications while expanding my skills in these emerging technologies.</p>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="GIF" style="width: 400px;"/>
+    </td>
+  </tr>
+</table>
 
----
+## 🌱 About Me
 
-## 🚀 About Me
+- 🎓 Currently learning Python, OpenCV, Machine Learning, and web development.
+- 💼 Open to collaborating on web development projects, freelance opportunities, and exciting ML/AI projects.
+- 📫 Reach me via email at [atharv.golait@gmail.com](mailto:atharv.golait@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/atharv-golait-9048772ab/).
 
-- 🌐 Full-stack web developer with passion for automation & emerging tech  
-- 🔭 Currently building projects using **React**, **Node.js**, and exploring **AI/ML**  
-- 🌱 Learning **OpenCV**, **Machine Learning**, and **AI agents for automation**  
-- 💼 Collaborating on freelance projects, AI workflows, and web platforms  
-- 🧠 Constantly sharpening skills with code challenges & experimental builds  
-- 📬 Reach me: [atharv.golait@gmail.com](mailto:atharv.golait@gmail.com)  
 
----
+## 🔧 Technologies & Tools
 
-## 🛠 Tech Stack
-
-<div align="center">
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Frameworks & Libraries
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 🧰 Tools & Platforms
+<!-- Add more frameworks and libraries as needed -->
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## ✨ Featured Projects
-
-| 🚀 Project | Description |
-|-----------|-------------|
-| [**Robotics Society Website**](https://github.com/AshishNith/RoboticsSocietyWebsite) | Official website built using Flask with blog, project showcase & portal. |
-| [**Task Manager App**](https://github.com/AshishNith/TaskManager) | Python desktop app to manage tasks with deadlines and categories. |
-| [**Joystick Robot in ROS2**](https://github.com/AshishNith/JoystickRobot) | ROS2-based robot control using joystick simulation via Gazebo. |
-| [**To-Do App with Django**](https://github.com/AshishNith/ToDoAppDjango) | A responsive CRUD to-do application built using Django framework. |
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Exploring Robotics with ROS](https://example.com/blog/ros)
-- [AI in Everyday Life](https://example.com/blog/ai-life)
-<!-- BLOG-POST-LIST:END -->
-
----
+<!-- Add more tools as needed -->
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATHARVISM2804&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARVISM2804&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>
+![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ATHARVISM2804&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARVISM2804&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ATHARVISM2804&theme=radical" alt="GitHub Streak" height="150"/>
-</p>
+- ## 📘 Featured Projects
 
----
+### [Robotics Society Website](https://github.com/AshishNith/RoboticsSocietyWebsite)
+Developed the official website for my college's robotics society using Flask and HTML/CSS. The site includes a blog, project showcase, and member portal.
+
+### [Task Manager App](https://github.com/AshishNith/TaskManager)
+A Python-based task management app with a GUI. Features include task categorization, deadline setting, and progress tracking.
+
+### [Joystick Controlled Robot in ROS2](https://github.com/AshishNith/JoystickRobot)
+Designed a robot in ROS2 that can be controlled using a joystick module. Simulated in Gazebo for testing.
+
+### [To-Do App with Django](https://github.com/AshishNith/ToDoAppDjango)
+A web-based to-do list application developed using Django. Users can add, edit, and delete tasks with a clean and responsive UI. 
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-golait-9048772ab/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AtharvGolait)
+[![Personal Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atharvism2804.github.io/website/)
+
+
 
 ## 💡 Fun Fact
 
-> I love building quirky mini-projects for fun, and I’m always experimenting with new APIs and tools. Sometimes, I even automate parts of my daily workflow just because... why not?
+I enjoy exploring emerging technologies, and in my free time, I love diving into coding challenges and building quirky mini-projects to sharpen my skills!
+
 
 ---
 
-<p align="center">
-  ⭐️ From <a href="https://github.com/ATHARVISM2804">ATHARVISM2804</a> | Designed to reflect real-world expertise 🌐
-</p>
+⭐️ From [ATHARVISM2804](https://github.com/ATHARVISM2804)
