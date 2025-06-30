@@ -43,7 +43,7 @@
 ![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ATHARVISM2804&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARVISM2804&layout=compact&theme=radical)
 
-<!-- ## 📘 Featured Projects
+- ## 📘 Featured Projects
 
 ### [Robotics Society Website](https://github.com/AshishNith/RoboticsSocietyWebsite)
 Developed the official website for my college's robotics society using Flask and HTML/CSS. The site includes a blog, project showcase, and member portal.
@@ -55,7 +55,7 @@ A Python-based task management app with a GUI. Features include task categorizat
 Designed a robot in ROS2 that can be controlled using a joystick module. Simulated in Gazebo for testing.
 
 ### [To-Do App with Django](https://github.com/AshishNith/ToDoAppDjango)
-A web-based to-do list application developed using Django. Users can add, edit, and delete tasks with a clean and responsive UI. -->
+A web-based to-do list application developed using Django. Users can add, edit, and delete tasks with a clean and responsive UI. 
 
 ## 🌐 Connect with Me
 
@@ -72,4 +72,4 @@ I enjoy exploring emerging technologies, and in my free time, I love diving into
 
 ---
 
-⭐️ From [ATHARVISM2804](https://github.com/AshishNith)
+⭐️ From [ATHARVISM2804](https://github.com/ATHARVISM2804)
